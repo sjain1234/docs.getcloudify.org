@@ -76,7 +76,7 @@ Services:
    +--------------------------------+---------+
    | InfluxDB                       | running |
    | Celery Management              | running |
-   | Logstash                       | running |
+   | AMQP-Postgres                  | running |
    | RabbitMQ                       | running |
    | AMQP InfluxDB                  | running |
    | PostgreSQL                     | running |

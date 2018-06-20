@@ -52,7 +52,6 @@ There are specific packages that are commonly included in RHEL/CentOS. You must 
 * `logrotate` - Required for rotating Cloudify log files
 * `systemd-sysv` - Required by PostgreSQL DB
 * `initscripts` - Required by RabbitMQ
-* `which` - Required to install Logstash plugins
 * `python-setuptools` - Required by Python
 * `python-backports` - Required by Python
 * `python-backports-ssl_match_hostname` - Required by Python

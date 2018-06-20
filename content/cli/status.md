@@ -33,7 +33,7 @@ Services:
 +--------------------------------+---------+
 | InfluxDB                       | running |
 | Celery Management              | running |
-| Logstash                       | running |
+| AMQP-Postgres                  | running |
 | RabbitMQ                       | running |
 | AMQP InfluxDB                  | running |
 | PostgreSQL                     | running |
@@ -54,7 +54,7 @@ Services:
 |            service             |  status |
 +--------------------------------+---------+
 | InfluxDB                       | running |
-| Logstash                       | running |
+| AMQP-Postgres                  | running |
 | AMQP InfluxDB                  | running |
 | RabbitMQ                       | running |
 | PostgreSQL                     | running |

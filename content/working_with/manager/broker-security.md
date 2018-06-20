@@ -99,7 +99,6 @@ Several components are not currently secured via SSL (though password authentica
 
 The unsecured components are:
 
-* Logstash
 * Riemann
 * Certain internal Manager communications
 

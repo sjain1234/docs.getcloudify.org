@@ -15,4 +15,4 @@ The workflow is self-explanatory and corresponds with the same principles upon w
 
 RabbitMQ stores messages within a dedicated, durable, non-exclusive topic exchange. 
 
-Log messages and events have separate queues. Currently, logs and events are stored in Elasticsearch in the same index. Although no abstraction is provided for this, you can use logstash to parse messages and store them in different indices if preferred, but they will not show in the Cloudify user interface.
+Log messages and events have separate queues. Currently, logs and events are stored in PostgreSQL DB.

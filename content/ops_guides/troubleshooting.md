@@ -158,7 +158,7 @@ Services:
 |            service             |  status |
 +--------------------------------+---------+
 | Cloudify Composer              | running |
-| Logstash                       | running |
+| AMQP-Postgres                  | running |
 | PostgreSQL                     | running |
 | Webserver                      | running |
 | Cloudify Stage                 | running |
