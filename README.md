@@ -54,7 +54,7 @@ Don't worry about cluttering - staging websites are automatically removed after 
 
 # Publishing
 
-Official version documentation is published through the version build branches (for example 4.3.0-build).
+Official version of the documentation is published through the version build branches (for example 4.3.0-build).
 
 The master branch is published to https://docs.cloudify.co/staging/dev and represents the latest documentation for the latest publicly available release. This branch is published to the latest official version site once a day.
 
