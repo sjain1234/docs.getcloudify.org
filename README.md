@@ -50,7 +50,7 @@ When you commit a change to any other branch, the site is built to the staging d
 
 Your staging website is available at: https://docs.cloudify.co/staging/<branch_name>
 
-Don't worry about cluttering - staging websites are automatically removed after 21 days.
+Don't worry about cluttering;staging websites are automatically removed after 21 days.
 
 # Publishing
 
@@ -73,7 +73,7 @@ To add a new section in the sidebar, you must add a directory and add an `_index
 
 # Link to latest 
 
-To create a link that will always direct to the latest version of the docs use 'latest/' syntax:
+To create a link that will always direct to the latest version of the docs; use 'latest/' syntax:
 ```
 [Latest home page](http://docs.cloudify.co/latest)
 ```
